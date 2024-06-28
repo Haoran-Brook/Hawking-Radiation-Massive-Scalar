@@ -1,4 +1,4 @@
-# HawNS - HAWking radiation of Nonrelativistic Scalars
+# HoRNS - Hawking Radiation of Nonrelativistic Scalars
 ## Authors: Haoran Cui, Yuhsin Tsai, Tao Xun
 This code is attached to the paper "Hawking radiation of nonrelativistic scalars: applications to pion and axion production," based on Mathematica 13.1. 
 
